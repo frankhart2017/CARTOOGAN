@@ -6,6 +6,8 @@ https://google.github.io/cartoonset/
 
 I trained the model on the 10k set of images from the database which contains 10,000 images of animated human faces.
 
+The project is inspired from Udacity Deep Learning Nanodegree Program's CelebA Face Generator and Siraj Raval's PokeGAN
+
 The following gif shows the progress of the network as training proceeds:-
 
 ![](iterations.gif)
